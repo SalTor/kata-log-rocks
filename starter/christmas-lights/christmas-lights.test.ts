@@ -1,7 +1,7 @@
 import { describe, expect, it, test } from "vitest";
 import { Grid, Val, updateCoordRange } from "./christmas-lights";
 
-describe("describe 4x4", () => {
+describe("4x4", () => {
   const size = {
     cols: 4,
     rows: 4,
